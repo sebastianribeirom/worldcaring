@@ -6,13 +6,15 @@
 }
 
 .aboutme{
-    margin: 20px auto;
+    margin: 0 auto;
+    padding: 20px 0 100px;
+
 }
 
 .name{
-    display: inline-block;
     font-size: 1.5rem;
-    margin: 20px auto;
+    margin: 20px 0;
+    text-align: center;
 }
 
 .maria{
